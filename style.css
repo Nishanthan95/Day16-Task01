@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f8ff;
+    margin: 0;
+}
+
+h1 {
+    font-size: 5em;
+    color: #333;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    transition: color 0.5s;
+}
+
+#countdown {
+    color: #044b7e;
+}
+
+
